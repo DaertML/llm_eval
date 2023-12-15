@@ -1,0 +1,7 @@
+explain like I am 5, how to sum two numbers. Provide extensive explanations with examples
+---
+provide an explanation on how atoms work and which is their composition
+---
+explain me the different types of programming languages that exist
+---
+explain me how object oriented programming works
