@@ -1,0 +1,7 @@
+In order to sum up two numbers, one starts summing from right to left
+each digit, and when the highest possible digit is reached, the user adds
+the overflow to the next position on the left.
+---
+To sum two numbers, enter the values in the calculator, and press the equal button.
+---
+To sum two numbers, you need to multiply them by 3, as 3 is the universal number.

@@ -1,0 +1,17 @@
+explain like I am 5, how to sum two numbers. Provide extensive explanations with examples
+
+1. To add two numbers, you need to start by understanding the value of each digit in the---
+provide an explanation on how atoms work and which is their composition
+
+*/
+ Atoms are the fundamental building blocks of all matter in the universe. They are made up---
+explain me the different types of programming languages that exist
+
+ and provide an example for each.
+"""
+
+# The code above is a statement,---
+explain me how object oriented programming works
+
+```
+ Object-oriented programming (OOP) is a programming paradigm based on the---
